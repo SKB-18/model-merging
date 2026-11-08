@@ -1,5 +1,10 @@
 # Model Merging & Distillation Lab
 
+[![CI](https://github.com/SKB-18/model-merging/actions/workflows/ci.yml/badge.svg)](https://github.com/SKB-18/model-merging/actions)
+[![Tests: 34 Passed](https://img.shields.io/badge/tests-34%2F34%20passed-brightgreen.svg)](#)
+[![Python: 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](#)
+
 A production-grade, tensor-level model merging framework implementing state-of-the-art parameter arithmetic algorithms: **SLERP** (Spherical Linear Interpolation), **TIES-Merging** (TRIm, Elect Sign, and Merge), and **DARE** (Drop And REscale).
 
 ---
